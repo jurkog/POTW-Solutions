@@ -3,6 +3,6 @@ My solutions to the uWindsor Computer Science Society programming problems of th
 
 **Week 1:** http://potw.quinnftw.com/problem/2015/1/
 
-**Week 2:** http://potw.quinnftw.com/problem/2015/1/
+**Week 2:** http://potw.quinnftw.com/problem/2015/2/
 
-**Week 3:** http://potw.quinnftw.com/problem/2015/1/
+**Week 3:** http://potw.quinnftw.com/problem/2015/3/
